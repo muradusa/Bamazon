@@ -1,1 +1,1 @@
-# mySQL-App
+# Bamazon - App
