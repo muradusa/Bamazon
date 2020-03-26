@@ -117,7 +117,7 @@ function promptCustomerForItem(inventory) {
   function checkIfShouldExit(choice) {
     if (choice.toLowerCase() === "q") {
       // Log a message and exit the current node process
-      console.log("Goodbye!");
+      console.log("Goodbye! See you later aligator");
       process.exit(0);
     }
   }
